@@ -1,0 +1,15 @@
+{
+  "name": "fetchext",
+  "version": "1.0.0",
+  "description": "Drop-in fetch wrapper that lets you call .json(), .text(), etc. multiple times without cloning the response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test index.test.js"
+  },
+  "keywords": ["fetch", "response", "json", "text", "clone"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
