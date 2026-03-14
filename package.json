@@ -7,7 +7,7 @@
     "test": "node --test index.test.js"
   },
   "keywords": ["fetch", "response", "json", "text", "clone"],
-  "author": "",
+  "author": "tonetheman <tonetheman@gmail.com> (https://tonycolston.com)",
   "license": "ISC",
   "engines": {
     "node": ">=18"
